@@ -9,7 +9,9 @@ FreeCodeCamp onclick: [Here](https://www.freecodecamp.org/news/html-button-oncli
 FreeCodeCamp data types: [Here](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/) \
 Eloquent JavaScript Functions: [Here](https://eloquentjavascript.net/03_functions.html) \
 JavaScript Functions: [Here](https://www.tutorialsteacher.com/javascript/javascript-function) \
-**Plus the slides from this course.**
+####**> Plus the slides from this course!!**
+
+####**> Note:** Pushing to Noroff Repo did not work. Don't even know if I needed to. I made my own anyway. Hope it's ok.
 
 ##Module Assignment 2: 
 Git Repo: https://github.com/NoroffFEU/programming-foundations-ma2
