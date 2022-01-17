@@ -1,4 +1,6 @@
 #Programming Foundations Module Assignment 2
+GitHub Repo: [Here](https://github.com/siljeangelvik/programming-foundations-MA2)
+
 ####A good amount of resources includes:
 MDN typeof: [Here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) \
 MDN Boolean: [Here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)  
