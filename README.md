@@ -23,6 +23,7 @@ Git Repo: https://github.com/NoroffFEU/programming-foundations-ma2
 ##Brief  
 The files for the assignment can be found [here](https://programming-foundations.netlify.app/2edsw/ma).  
 
+
 ##Level 1  
 ###// QUESTION 1  
 * Loop through the array below 
@@ -46,7 +47,8 @@ age: 4.0,
 ];
 </pre>
 
-###// QUESTION 2
+
+###// QUESTION 2  
 Create a function with one argument. \
 Inside the function check the type of the value being passed in. \
 If it is a boolean value, log the value. \
@@ -54,13 +56,15 @@ If it is not a boolean value, \
 log the message "Please pass a boolean value in". \
 Call the function and pass a value in.
 
-###// QUESTION 3
+
+###// QUESTION 3  
 Write code that does the following: \ 
 When the button in the HTML is clicked, \
 change the colour of the h2 element to "blue" \
 and change it to read "Updated subheading".
 
-##Submission
+
+##Submission  
 * All your answers should be in the js/script.js file. 
 * You can submit only this file (zipped) or all the files from the repo (also zipped).
 * Write your answers with a comment above each answer indicating the question number:
