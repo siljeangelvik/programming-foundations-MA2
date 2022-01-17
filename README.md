@@ -1,7 +1,7 @@
-#Programming Foundations Module Assignment 2
-GitHub Repo: [Here](https://github.com/siljeangelvik/programming-foundations-MA2)  
-
-####A good amount of resources includes:
+#Programming Foundations Module Assignment 2  
+GitHub Repo: [Here](https://github.com/siljeangelvik/programming-foundations-MA2)    
+  
+####A good amount of resources includes:  
 MDN typeof: [Here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof) \
 MDN Boolean: [Here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)  
 MDN Parameter: [Here](https://developer.mozilla.org/en-US/docs/Glossary/Parameter) \
@@ -10,19 +10,21 @@ MDN if...else: [Here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Re
 FreeCodeCamp onclick: [Here](https://www.freecodecamp.org/news/html-button-onclick-javascript-click-event-tutorial/) \
 FreeCodeCamp data types: [Here](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/) \
 Eloquent JavaScript Functions: [Here](https://eloquentjavascript.net/03_functions.html) \
-JavaScript Functions: [Here](https://www.tutorialsteacher.com/javascript/javascript-function) \
-####**> Plus the slides from this course!!**
+JavaScript Functions: [Here](https://www.tutorialsteacher.com/javascript/javascript-function)  
+####**> Plus the slides from this course!!**  
 
-####**> Note:** Pushing to Noroff Repo did not work. Don't even know if I needed to. I made my own anyway. Hope it's ok.
+####**> Note:** Pushing to Noroff Repo did not work.  
+Don't even know if I needed to. \
+I made my own anyway. Hope it's ok.
 
-##Module Assignment 2: 
-Git Repo: https://github.com/NoroffFEU/programming-foundations-ma2
+##Module Assignment 2:   
+Git Repo: https://github.com/NoroffFEU/programming-foundations-ma2   
 
-##Brief
-The files for the assignment can be found [here](https://programming-foundations.netlify.app/2edsw/ma).
+##Brief  
+The files for the assignment can be found [here](https://programming-foundations.netlify.app/2edsw/ma).  
 
-##Level 1
-###// QUESTION 1
+##Level 1  
+###// QUESTION 1  
 * Loop through the array below 
 * and console log each **type** property 
 * if the **age** is at least 4.
